@@ -1,0 +1,43 @@
+Phase 1: Data Collection and Organization
+
+Phase 2: Data Cleaning and Preparation
+	2.1 : Remove duplicates, handle missing values | Excel / SPSS
+	2.2 : Encode Likert scale responses as numeric (1 to 5) | Excel / SPSS
+	2.3 : Encode categorical data (gender, position, etc.) | Excel / Python (pandas)
+	2.4 : Import cleaned dataset into Jupyter Notebook for further analysis | Python (pandas)
+
+Phase 3: Descriptive Analysis
+	3.1 : Frequency tables for demographics and digital tech usage | SPSS / Excel
+	3.2 : Mean, median, mode for Likert items | SPSS / Python (pandas, numpy)
+	3.3 : Visualizations: bar charts, histograms, radar charts | Excel / Python (matplotlib, seaborn)
+
+Phase 4: Reliability and Validity
+	4.1 : Run Cronbach’s Alpha for reliability of questionnaire sections | SPSS
+	4.2 : Conduct KMO & Bartlett’s test for factor analysis readiness | SPSS
+
+Phase 5: Exploratory Factor Analysis
+	5.1 : Perform factor analysis to identify latent variables | SPSS
+	5.2 : Interpret loadings and regroup items if needed | SPSS / Excel
+	5.3 : (Optional) Apply PCA for dimensionality reduction | Python (scikit-learn)
+
+Phase 6: Inferential Statistics
+	6.1 : Correlation analysis between adoption, sustainability, and delivery | SPSS / Python
+	6.2 : T-tests or ANOVA for group comparisons (e.g., by position or experience) | SPSS
+	6.3 : Multiple regression to predict project outcomes from adoption levels | SPSS / Python (statsmodels)
+
+Phase 7: Machine Learning Models
+	7.1 : Classification: Predict high vs. low project performance | Python (scikit-learn)
+	7.2 : Clustering: Segment respondents/firms by behavior | Python (KMeans, DBSCAN)
+	7.3 : Decision Trees: Identify decision rules for adoption success | Python (DecisionTreeClassifier)
+	7.4 : Evaluate models using accuracy, precision, recall, F1 | Python (scikit-learn)
+	
+Phase 8: Insights and Recommendations
+	8.1 : Interpret most significant factors influencing adoption and outcomes | Python / SPSS
+	8.2 : Recommend targeted strategies to overcome barriers | Word / Excel
+	8.3 : Develop policy briefs or charts for stakeholders | PowerPoint / Canva / Excel
+
+Phase 9: Reporting and Thesis Writing
+	9.1 : Prepare figures and tables for inclusion in chapters | Excel / Python / SPSS
+	9.2 : Write methodology and analysis chapters | MS Word
+	9.3 : Include code appendices (Python notebooks) | Jupyter Notebook / PDF export
+	9.4 : Finalize and review for defense or submission | MS Word / Grammarly
