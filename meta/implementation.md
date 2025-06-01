@@ -124,7 +124,7 @@ Total of `129` data rows were obtained
 
 
 
-# **Phase 2**: Data Cleaning and Preparation
+#  **Phase 2**: Data Cleaning and Preparation
 
 ```vba
 Sub FillBlanksAndZerosWithColumnMode()
