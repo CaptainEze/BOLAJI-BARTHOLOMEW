@@ -1,2 +1,21 @@
-venv
-results/
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# Data & models (don't commit large files)
+data/
+models/
+*.h5
+*.ckpt
+*.pth
+
+# OS
+.DS_Store
